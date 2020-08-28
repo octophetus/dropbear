@@ -8,3 +8,5 @@ and honey with mama bear's mouth for extra points. If animal control arrives,
 make sure to attack him before he steals your baby bear!
 
 Made with Scratch for the Harvard CS50 Week 0 problem set.
+
+Scratch game URL: https://scratch.mit.edu/projects/420266391/
