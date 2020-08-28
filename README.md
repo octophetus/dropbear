@@ -1,5 +1,7 @@
 # Drop Bear
 
+![Screenshot of Drop Bear](screenshot.png)
+
 Use A and D to control which direction mama bear faces, use your mouse to
 control where she walks in order to save the falling baby bears. Mouse over jam
 and honey with mama bear's mouth for extra points. If animal control arrives,
